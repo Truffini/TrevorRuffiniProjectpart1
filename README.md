@@ -19,3 +19,4 @@ school.city
 All output will be added to a new file Data.txt
 
 Small issue when adding repository it was created successfully but when I tried to commit functions directly from python it would not work so I had to add files on github.
+The .idea file was unable to add.
